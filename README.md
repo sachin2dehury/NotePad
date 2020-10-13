@@ -1,4 +1,4 @@
 # NotePad
 NotePad -  Developed based on Object Oriented Design Pattern. Used Java Swing and Threads for smooth and better performance.
 
-Duplicates the Microsoft Notepad work functionallity with Theme Support.
+Duplicates the Microsoft Notepad work functionality with Theme Support.
